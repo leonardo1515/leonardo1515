@@ -25,6 +25,12 @@ LINGUAGENS:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 <p align="left">
+
+   <div align="center">
+  <a href="https://github.com/leonardo1515">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo1515&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   Como entrar em contato: ⤵️
 </p>
 
