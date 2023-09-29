@@ -14,7 +14,9 @@
 LINGUAGENS:
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-Superset:[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.devmedia.com.br/introducao-ao-typescript/36729)
+
+Superset:
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.devmedia.com.br/introducao-ao-typescript/36729)
     
 </p>
 
